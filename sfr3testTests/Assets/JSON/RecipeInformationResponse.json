@@ -1,0 +1,620 @@
+{
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": false,
+    "dairyFree": false,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": false,
+    "weightWatcherSmartPoints": 12,
+    "gaps": "no",
+    "preparationMinutes": -1,
+    "cookingMinutes": -1,
+    "aggregateLikes": 17,
+    "healthScore": 31,
+    "creditsText": "foodista.com",
+    "sourceName": "foodista.com",
+    "pricePerServing": 308.31,
+    "extendedIngredients": [
+        {
+            "id": 99223,
+            "aisle": "Canned and Jarred",
+            "image": "canned-chipotle.png",
+            "consistency": "SOLID",
+            "name": "chipotle chiles in adobo",
+            "nameClean": "canned chipotle chile",
+            "original": "2 teaspoons Chopped Chipotle Chiles In Adobo",
+            "originalName": "Chopped Chipotle Chiles In Adobo",
+            "amount": 2.0,
+            "unit": "teaspoons",
+            "meta": [
+                "chopped"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 2.0,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 2.0,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 42193,
+            "aisle": "Condiments",
+            "image": "mayonnaise.png",
+            "consistency": "LIQUID",
+            "name": "mayonnaise",
+            "nameClean": "fat free mayonnaise",
+            "original": "3 Tablespoons Fat Free Mayonnaise",
+            "originalName": "Fat Free Mayonnaise",
+            "amount": 3.0,
+            "unit": "Tablespoons",
+            "meta": [
+                "fat free"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 3.0,
+                    "unitShort": "Tbsps",
+                    "unitLong": "Tbsps"
+                },
+                "metric": {
+                    "amount": 3.0,
+                    "unitShort": "Tbsps",
+                    "unitLong": "Tbsps"
+                }
+            }
+        },
+        {
+            "id": 11215,
+            "aisle": "Produce",
+            "image": "garlic.png",
+            "consistency": "SOLID",
+            "name": "garlic",
+            "nameClean": "garlic",
+            "original": "1 clove garlic, pressed or grated",
+            "originalName": "garlic, pressed or grated",
+            "amount": 1.0,
+            "unit": "clove",
+            "meta": [
+                "grated",
+                "pressed"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 1.0,
+                    "unitShort": "clove",
+                    "unitLong": "clove"
+                },
+                "metric": {
+                    "amount": 1.0,
+                    "unitShort": "clove",
+                    "unitLong": "clove"
+                }
+            }
+        },
+        {
+            "id": 1022020,
+            "aisle": "Spices and Seasonings",
+            "image": "garlic-powder.png",
+            "consistency": "SOLID",
+            "name": "garlic powder",
+            "nameClean": "garlic powder",
+            "original": "¼ teaspoons Garlic Powder",
+            "originalName": "Garlic Powder",
+            "amount": 0.25,
+            "unit": "teaspoons",
+            "meta": [],
+            "measures": {
+                "us": {
+                    "amount": 0.25,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 0.25,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 1256,
+            "aisle": "Milk, Eggs, Other Dairy",
+            "image": "plain-yogurt.jpg",
+            "consistency": "LIQUID",
+            "name": "greek yogurt",
+            "nameClean": "greek yogurt",
+            "original": "3 Tablespoons Greek Yogurt, Non-fat",
+            "originalName": "Greek Yogurt, Non-fat",
+            "amount": 3.0,
+            "unit": "Tablespoons",
+            "meta": [],
+            "measures": {
+                "us": {
+                    "amount": 3.0,
+                    "unitShort": "Tbsps",
+                    "unitLong": "Tbsps"
+                },
+                "metric": {
+                    "amount": 3.0,
+                    "unitShort": "Tbsps",
+                    "unitLong": "Tbsps"
+                }
+            }
+        },
+        {
+            "id": 11333,
+            "aisle": "Produce",
+            "image": "green-pepper.jpg",
+            "consistency": "SOLID",
+            "name": "bell pepper",
+            "nameClean": "green pepper",
+            "original": "1 cup Green Bell Pepper, Sliced Into Strips",
+            "originalName": "Green Bell Pepper, Sliced Into Strips",
+            "amount": 1.0,
+            "unit": "cup",
+            "meta": [
+                "green",
+                "sliced into strips"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 1.0,
+                    "unitShort": "cup",
+                    "unitLong": "cup"
+                },
+                "metric": {
+                    "amount": 149.0,
+                    "unitShort": "g",
+                    "unitLong": "grams"
+                }
+            }
+        },
+        {
+            "id": 1012014,
+            "aisle": "Spices and Seasonings",
+            "image": "ground-cumin.jpg",
+            "consistency": "SOLID",
+            "name": "ground cumin",
+            "nameClean": "ground cumin",
+            "original": "½ teaspoons Ground Cumin",
+            "originalName": "Ground Cumin",
+            "amount": 0.5,
+            "unit": "teaspoons",
+            "meta": [],
+            "measures": {
+                "us": {
+                    "amount": 0.5,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 0.5,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 1002030,
+            "aisle": "Spices and Seasonings",
+            "image": "pepper.jpg",
+            "consistency": "SOLID",
+            "name": "ground pepper",
+            "nameClean": "black pepper",
+            "original": "¼ teaspoons Ground Black Pepper",
+            "originalName": "Ground Black Pepper",
+            "amount": 0.25,
+            "unit": "teaspoons",
+            "meta": [
+                "black"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 0.25,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 0.25,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 23557,
+            "aisle": "Meat",
+            "image": "fresh-ground-beef.jpg",
+            "consistency": "SOLID",
+            "name": "ground beef",
+            "nameClean": "95 percent lean ground beef",
+            "original": "1 1/2 pounds lean ground beef",
+            "originalName": "lean ground beef",
+            "amount": 1.5,
+            "unit": "pounds",
+            "meta": [
+                "lean"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 1.5,
+                    "unitShort": "lb",
+                    "unitLong": "pounds"
+                },
+                "metric": {
+                    "amount": 680.389,
+                    "unitShort": "g",
+                    "unitLong": "grams"
+                }
+            }
+        },
+        {
+            "id": 9160,
+            "aisle": "Produce",
+            "image": "lime-juice.png",
+            "consistency": "LIQUID",
+            "name": "lime juice",
+            "nameClean": "lime juice",
+            "original": "4 teaspoons Lime Juice, Fresh",
+            "originalName": "Lime Juice, Fresh",
+            "amount": 4.0,
+            "unit": "teaspoons",
+            "meta": [
+                "fresh"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 4.0,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                },
+                "metric": {
+                    "amount": 4.0,
+                    "unitShort": "tsps",
+                    "unitLong": "teaspoons"
+                }
+            }
+        },
+        {
+            "id": 11282,
+            "aisle": "Produce",
+            "image": "brown-onion.png",
+            "consistency": "SOLID",
+            "name": "onion",
+            "nameClean": "onion",
+            "original": "½ cups Onion, Sliced Into Strips",
+            "originalName": "Onion, Sliced Into Strips",
+            "amount": 0.5,
+            "unit": "cups",
+            "meta": [
+                "sliced into strips"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 0.5,
+                    "unitShort": "cups",
+                    "unitLong": "cups"
+                },
+                "metric": {
+                    "amount": 80.0,
+                    "unitShort": "g",
+                    "unitLong": "grams"
+                }
+            }
+        },
+        {
+            "id": 1040,
+            "aisle": "Cheese",
+            "image": "Swiss-cheese.jpg",
+            "consistency": "SOLID",
+            "name": "wedges of laughing cow swiss cheese",
+            "nameClean": "swiss cheese",
+            "original": "2 whole Wedges Of Laughing Cow Swiss Cheese, Sliced In Half",
+            "originalName": "whole Wedges Of Laughing Cow Swiss Cheese, Sliced In Half",
+            "amount": 2.0,
+            "unit": "",
+            "meta": [
+                "whole",
+                "sliced in half"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 2.0,
+                    "unitShort": "",
+                    "unitLong": ""
+                },
+                "metric": {
+                    "amount": 2.0,
+                    "unitShort": "",
+                    "unitLong": ""
+                }
+            }
+        },
+        {
+            "id": 42130,
+            "aisle": "Meat",
+            "image": "bacon-turkey.jpg",
+            "consistency": "SOLID",
+            "name": "turkey bacon",
+            "nameClean": "turkey bacon",
+            "original": "4 slices Turkey Bacon, Cooked According To Package",
+            "originalName": "Turkey Bacon, Cooked According To Package",
+            "amount": 4.0,
+            "unit": "slices",
+            "meta": [
+                "cooked"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 4.0,
+                    "unitShort": "slice",
+                    "unitLong": "slices"
+                },
+                "metric": {
+                    "amount": 4.0,
+                    "unitShort": "slice",
+                    "unitLong": "slices"
+                }
+            }
+        },
+        {
+            "id": 18351,
+            "aisle": "Bakery/Bread",
+            "image": "whole-wheat-hamburger-buns.jpg",
+            "consistency": "SOLID",
+            "name": "hamburger buns",
+            "nameClean": "whole wheat hamburger bun",
+            "original": "4 whole Wheat Hamburger Buns",
+            "originalName": "whole Wheat Hamburger Buns",
+            "amount": 4.0,
+            "unit": "",
+            "meta": [
+                "whole wheat"
+            ],
+            "measures": {
+                "us": {
+                    "amount": 4.0,
+                    "unitShort": "",
+                    "unitLong": ""
+                },
+                "metric": {
+                    "amount": 4.0,
+                    "unitShort": "",
+                    "unitLong": ""
+                }
+            }
+        }
+    ],
+    "id": 637631,
+    "title": "Cheesy Bacon Burger with Spicy Chipotle Aiolo Sauce",
+    "readyInMinutes": 45,
+    "servings": 4,
+    "sourceUrl": "http://www.foodista.com/recipe/VWDL3M4T/cheesy-bacon-burger-with-spicy-chipotle-aiolo-sauce",
+    "image": "https://spoonacular.com/recipeImages/637631-556x370.jpg",
+    "imageType": "jpg",
+    "summary": "Cheesy Bacon Burger with Spicy Chipotle Aiolo Sauce might be a good recipe to expand your main course collection. This recipe serves 4. For <b>$3.08 per serving</b>, this recipe <b>covers 31%</b> of your daily requirements of vitamins and minerals. One serving contains <b>475 calories</b>, <b>49g of protein</b>, and <b>18g of fat</b>. A few people really liked this American dish. From preparation to the plate, this recipe takes around <b>45 minutes</b>. This recipe from Foodista requires ground cumin, turkey bacon, greek yogurt, and garlic powder. This recipe is liked by 17 foodies and cooks. With a spoonacular <b>score of 86%</b>, this dish is outstanding. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/cheesy-bacon-oven-chips-with-chipotle-ranch-dipping-sauce-590236\">Cheesy Bacon Oven Chips with Chipotle Ranch Dipping Sauce</a>, <a href=\"https://spoonacular.com/recipes/chipotle-bacon-turkey-burger-84500\">Chipotle-Bacon Turkey Burger</a>, and <a href=\"https://spoonacular.com/recipes/cheesy-bacon-burger-pizza-421444\">Cheesy Bacon Burger Pizza</a>.",
+    "cuisines": [
+        "American"
+    ],
+    "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+    ],
+    "diets": [],
+    "occasions": [],
+    "winePairing": {
+        "pairedWines": [
+            "merlot",
+            "malbec",
+            "zinfandel"
+        ],
+        "pairingText": "Merlot, Malbec, and Zinfandel are my top picks for Burger. Merlot will be perfectly adequate for a classic burger with standard toppings. Bolder toppings call for bolder wines, such as a malbec or peppery zinfandel. The Rolling Stones 50th Anniversary Forty Licks Merlot Wine with a 4.8 out of 5 star rating seems like a good match. It costs about 17 dollars per bottle.",
+        "productMatches": [
+            {
+                "id": 428396,
+                "title": "Rolling Stones 50th Anniversary Forty Licks Merlot Wine",
+                "description": "The 2012 Merlot captures the attitude of Mendocino County's style. Aromas of black cherry, leather, and tobacco are followed by rich flavors of cinnamon over vanilla. This dry red wine is a fine match for herb-roasted chicken, grilled beef or smoky chili.",
+                "price": "$16.989999771118164",
+                "imageUrl": "https://spoonacular.com/productImages/428396-312x231.jpg",
+                "averageRating": 0.9599999785423279,
+                "ratingCount": 7.0,
+                "score": 0.9145454330877825,
+                "link": "https://www.amazon.com/Rolling-Stones-Anniversary-Merlot-Mendocino/dp/B01NCT6E9V?tag=spoonacular-20"
+            }
+        ]
+    },
+    "instructions": "<ol><li>For Burgers:</li><li>In a pan cook turkey bacon according to directions on package.</li><li>Once bacon is done being cooked, take the bacon out and set aside. Add bell pepper and onion into same pan, cook until tender about 10 minutes.</li><li>Add ground beef to a small bowl, add garlic powder and ground pepper, mix well.</li><li>Divide the raw meat into 8 equal pieces (I used my scale to measure into 2oz each piece). Flatten out the hamburger, and place 1/2 a cheese wedge onto each piece of hamburger. Take the other pieces of the hamburger and place on top of the cheese , and squish them togther and seal the edges so the cheese doesnt ozzz out. Place on grill and cook until done. About 5 minutes per side.</li><li>Place burger on buns, top the burgers with bacon, peppers & onions and sauce.</li><li>For Spicy Chipotle Aiolo Sauce:</li><li>In a small bowl place all the ingredients together and wisk together until combined.</li><li>Makes 3/4 cups or 12 Tablespoons</li></ol>",
+    "analyzedInstructions": [
+        {
+            "name": "",
+            "steps": [
+                {
+                    "number": 1,
+                    "step": "For Burgers:In a pan cook turkey bacon according to directions on package.Once bacon is done being cooked, take the bacon out and set aside.",
+                    "ingredients": [
+                        {
+                            "id": 42130,
+                            "name": "turkey bacon",
+                            "localizedName": "turkey bacon",
+                            "image": "bacon-turkey.jpg"
+                        },
+                        {
+                            "id": 10123,
+                            "name": "bacon",
+                            "localizedName": "bacon",
+                            "image": "raw-bacon.png"
+                        }
+                    ],
+                    "equipment": [
+                        {
+                            "id": 404645,
+                            "name": "frying pan",
+                            "localizedName": "frying pan",
+                            "image": "pan.png"
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "step": "Add bell pepper and onion into same pan, cook until tender about 10 minutes.",
+                    "ingredients": [
+                        {
+                            "id": 10211821,
+                            "name": "bell pepper",
+                            "localizedName": "bell pepper",
+                            "image": "bell-pepper-orange.png"
+                        },
+                        {
+                            "id": 11282,
+                            "name": "onion",
+                            "localizedName": "onion",
+                            "image": "brown-onion.png"
+                        }
+                    ],
+                    "equipment": [
+                        {
+                            "id": 404645,
+                            "name": "frying pan",
+                            "localizedName": "frying pan",
+                            "image": "pan.png"
+                        }
+                    ],
+                    "length": {
+                        "number": 10,
+                        "unit": "minutes"
+                    }
+                },
+                {
+                    "number": 3,
+                    "step": "Add ground beef to a small bowl, add garlic powder and ground pepper, mix well.Divide the raw meat into 8 equal pieces (I used my scale to measure into 2oz each piece). Flatten out the hamburger, and place 1/2 a cheese wedge onto each piece of hamburger. Take the other pieces of the hamburger and place on top of the cheese , and squish them togther and seal the edges so the cheese doesnt ozzz out.",
+                    "ingredients": [
+                        {
+                            "id": 1022020,
+                            "name": "garlic powder",
+                            "localizedName": "garlic powder",
+                            "image": "garlic-powder.png"
+                        },
+                        {
+                            "id": 1002030,
+                            "name": "ground black pepper",
+                            "localizedName": "ground black pepper",
+                            "image": "pepper.jpg"
+                        },
+                        {
+                            "id": 10023572,
+                            "name": "ground beef",
+                            "localizedName": "ground beef",
+                            "image": "fresh-ground-beef.jpg"
+                        },
+                        {
+                            "id": 1041009,
+                            "name": "cheese",
+                            "localizedName": "cheese",
+                            "image": "cheddar-cheese.png"
+                        },
+                        {
+                            "id": 1065062,
+                            "name": "meat",
+                            "localizedName": "meat",
+                            "image": "whole-chicken.jpg"
+                        }
+                    ],
+                    "equipment": [
+                        {
+                            "id": 404705,
+                            "name": "kitchen scale",
+                            "localizedName": "kitchen scale",
+                            "image": "kitchen-scale.jpg"
+                        },
+                        {
+                            "id": 404783,
+                            "name": "bowl",
+                            "localizedName": "bowl",
+                            "image": "bowl.jpg"
+                        }
+                    ]
+                },
+                {
+                    "number": 4,
+                    "step": "Place on grill and cook until done. About 5 minutes per side.",
+                    "ingredients": [],
+                    "equipment": [
+                        {
+                            "id": 404706,
+                            "name": "grill",
+                            "localizedName": "grill",
+                            "image": "grill.jpg"
+                        }
+                    ],
+                    "length": {
+                        "number": 5,
+                        "unit": "minutes"
+                    }
+                },
+                {
+                    "number": 5,
+                    "step": "Place burger on buns, top the burgers with bacon, peppers & onions and sauce.For Spicy Chipotle Aiolo Sauce:In a small bowl place all the ingredients together and wisk together until combined.Makes 3/4 cups or 12 Tablespoons",
+                    "ingredients": [
+                        {
+                            "id": 98839,
+                            "name": "chipotle chiles",
+                            "localizedName": "chipotle chiles",
+                            "image": "chile-chipotle.jpg"
+                        },
+                        {
+                            "id": 10111333,
+                            "name": "peppers",
+                            "localizedName": "peppers",
+                            "image": "green-pepper.jpg"
+                        },
+                        {
+                            "id": 11282,
+                            "name": "onion",
+                            "localizedName": "onion",
+                            "image": "brown-onion.png"
+                        },
+                        {
+                            "id": 10123,
+                            "name": "bacon",
+                            "localizedName": "bacon",
+                            "image": "raw-bacon.png"
+                        },
+                        {
+                            "id": 0,
+                            "name": "sauce",
+                            "localizedName": "sauce",
+                            "image": ""
+                        },
+                        {
+                            "id": 0,
+                            "name": "roll",
+                            "localizedName": "roll",
+                            "image": "dinner-yeast-rolls.jpg"
+                        }
+                    ],
+                    "equipment": [
+                        {
+                            "id": 404783,
+                            "name": "bowl",
+                            "localizedName": "bowl",
+                            "image": "bowl.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "originalId": null,
+    "spoonacularSourceUrl": "https://spoonacular.com/cheesy-bacon-burger-with-spicy-chipotle-aiolo-sauce-637631"
+}
